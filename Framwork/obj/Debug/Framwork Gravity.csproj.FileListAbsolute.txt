@@ -1,0 +1,6 @@
+D:\University Work\Semester 2\Car Framwork\Framwork\bin\Debug\Framwork.dll
+D:\University Work\Semester 2\Car Framwork\Framwork\bin\Debug\Framwork.pdb
+D:\University Work\Semester 2\Car Framwork\Framwork\obj\Debug\Framwork Gravity.csproj.AssemblyReference.cache
+D:\University Work\Semester 2\Car Framwork\Framwork\obj\Debug\Framwork Gravity.csproj.CoreCompileInputs.cache
+D:\University Work\Semester 2\Car Framwork\Framwork\obj\Debug\Framwork.dll
+D:\University Work\Semester 2\Car Framwork\Framwork\obj\Debug\Framwork.pdb
